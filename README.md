@@ -1,2 +1,2 @@
 # First Class Demo
-ARTI Projects
+ARTI 606 Projects
